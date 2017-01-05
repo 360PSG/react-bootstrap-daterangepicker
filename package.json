@@ -18,7 +18,6 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "bootstrap-daterangepicker": "^2.1.25",
     "object-assign": "^4.1.1"
   },
   "peerDependencies": {
